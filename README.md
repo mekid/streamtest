@@ -1,3 +1,3 @@
 # streamtest
-Test repository of SteamRoot DNA solution
+Test repository of the solution
 By Kidmé Ouedraogo
