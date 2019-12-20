@@ -1,2 +1,3 @@
 # streamtest
-Repo about my application assessment 
+Test repository of SteamRoot DNA solution
+By Kidmé Ouedraogo
